@@ -1,4 +1,4 @@
-# QWERTY (EventSeeker) 
+# CRASH DETECTION PIPELINE (EventSeeker) 
 
 > **Automated 3D anomaly detection for long-duration surveillance footage.**
 
