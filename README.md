@@ -1,4 +1,4 @@
-# QWERTY (EventSeeker) - Hackathon Prototype
+# QWERTY (EventSeeker) 
 
 > **Automated 3D anomaly detection for long-duration surveillance footage.**
 
@@ -20,9 +20,7 @@ Instead of generic motion detection or flawed 2D overlap checks, we use a 3D phy
 4. **Collision Prediction:** By analyzing the magnitude and direction of these 3D vectors, the system predicts if objects are physically converging (intersecting paths in 3D space) at high speeds, effectively filtering out false positives caused by 2D perspective overlap.
 5. **Logging:** If a genuine 3D convergence is detected, the timestamp and object IDs are logged to a text file for immediate human review.
 
-## 🚧 Current Status: Hackathon Version
-
-*This project is currently being developed for [Name of Hackathon].*
+## 🚧 Current Status:
 
 **Current Capabilities:**
 
